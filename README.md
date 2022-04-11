@@ -16,6 +16,7 @@
 - foot (wayland-native terminal, my config disabled HiDPI detect)
 - neovim
 - git
+- grim & slurp (screenshot)
 ### Personal Utilities
 - 1password-cli
 - s-tui
